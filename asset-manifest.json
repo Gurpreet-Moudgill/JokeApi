@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JokeApi/static/css/main.82d01995.css",
+    "main.js": "/JokeApi/static/js/main.e97c8ae4.js",
+    "static/js/787.c21f8c9c.chunk.js": "/JokeApi/static/js/787.c21f8c9c.chunk.js",
+    "index.html": "/JokeApi/index.html",
+    "main.82d01995.css.map": "/JokeApi/static/css/main.82d01995.css.map",
+    "main.e97c8ae4.js.map": "/JokeApi/static/js/main.e97c8ae4.js.map",
+    "787.c21f8c9c.chunk.js.map": "/JokeApi/static/js/787.c21f8c9c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82d01995.css",
+    "static/js/main.e97c8ae4.js"
+  ]
+}
